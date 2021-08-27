@@ -1,0 +1,17 @@
+Known Bugs:
+
+
+Antimation:
+
+going right can put animation into wall - non-critical
+
+
+collision:
+
+when pushing box char stays in air - non-critical
+
+
+
+
+
+

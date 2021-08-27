@@ -1,0 +1,43 @@
+level 1 - trim spot where fox has hard time
+the steps are annoying
+
+level 3 - why cant i step on all of them, maybe make them a certain color that you can step on.
+
+level 4 - way to move box when against wall
+
+level 5 - more space or timer to start, getting stuck under pillars
+
+
+
+draker menu text
+
+
+
+maybe have a lvl preview
+
+
+
+credits
+
+
+fixed:
+
+mp options move down
+
+can pick same char, maybe tint diff color
+
+select device for saving/ say saving...
+
+level 9 - to fix squishing, could have spikey and always kill when touch
+
+
+lvl 9 walking into walls sometimes bug kill/ and the sitting on platform can kill.
+
+
+level 8 - broke near cat goal, shortcut, cat can fit in hole not suposed to
+
+many people signed in buggggs it out like crazy - must fix!!
+
+cant be squished in mp
+
+game over menu mp need to be any buton

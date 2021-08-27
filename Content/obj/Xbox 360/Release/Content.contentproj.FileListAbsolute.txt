@@ -1,0 +1,2 @@
+C:\Users\Jason\Dropbox\starter\Content\obj\Xbox 360\Release\ResolveAssemblyReference.cache
+C:\Users\Jason\Documents\My Dropbox\starter\Content\obj\Xbox 360\Release\ResolveAssemblyReference.cache
